@@ -1,8 +1,9 @@
-# Zen-lofi-beats   [Live](https://zenbeats.netlify.app/)
- 
-![theme](/assets/theme.png)
+# Podcast Baitul Hikmah Depok [Live](https://suaraedukasipodcast.netlify.app/)
+
+![theme](podcast.png)
 
 #### Features
+
 - Built with Vanilla JS
 - Responsive Design
-- 5 Music Tracks
+- 17 Podcast Tracks
